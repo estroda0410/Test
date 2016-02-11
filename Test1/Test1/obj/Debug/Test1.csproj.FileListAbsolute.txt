@@ -1,1 +1,7 @@
 P:\Documents\Tests\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\Erin\Desktop\Git\Test\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\Erin\Desktop\Git\Test\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\Erin\Desktop\Git\Test\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\Erin\Desktop\Git\Test\Test1\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+C:\Users\Erin\Desktop\Git\Test\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\Erin\Desktop\Git\Test\Test1\Test1\obj\Debug\Test1.pdb
